@@ -33,6 +33,7 @@ connectToDb(function(error) {
  * add-entry - POST
  * edit-entry - PATCH
  * delete-entry - DELETE
+ * adding enwe kdpoeajfoihjwoifhow;dhn
  */
 
 app.post('/add-entry', function(request, response) {
